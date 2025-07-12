@@ -20,12 +20,6 @@ This is my new GitHub — my last one got taken down, but we keep building. Alwa
 - **Discord Bot**  
   Full-featured bot built with `discord.py` — moderation, commands, logs, and custom automation.
 
-- **Discord Monitoring Tool**  
-  Real-time monitoring of server events, member activity, and webhook tracking. Lightweight and efficient ifykyk.
-
-- **Webhook Bomber**  
-  Stress tests Discord webhooks — max output, minimal delay.
-
 ## 📫 Contact
 
 Want to collab, commission a tool, or just talk code?
