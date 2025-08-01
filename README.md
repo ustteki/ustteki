@@ -9,7 +9,7 @@ This is my new GitHub — my last one got taken down.
 ##  Tech Stack
 
 -  Languages: `Python`, `Lua`, `JS/CSS`
--  Tools: `Visual Studio Code`
+-  Tools: `VSC`
 
 ---
 
