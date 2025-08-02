@@ -8,7 +8,7 @@ This is my new GitHub — my last one got taken down.
 
 ##  Tech Stack
 
--  Languages: `Python`, `Lua`, `JS/CSS`
+-  Languages: `Python`, `Lua`, `C/C++/C#`
 -  Tools: `VSC`
 
 ---
