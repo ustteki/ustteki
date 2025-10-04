@@ -1,10 +1,7 @@
 
-**Full-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ustteki&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ustteki&layout=compact&theme=dark&hide_border=true)ck Developer** | **Web & Software Development**
 
- Full-stack developer | 🎮 Roblox script hub creator with **50k+ community members** | 🌐 Building scalable applications
+ Full-stack developer | script hub creator with **50k+ community members** 
 
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -31,4 +28,4 @@
 ##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ustteki&show_icons=true&theme=dark&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ustteki&layout=compact&theme=dark&hide_border=true)
