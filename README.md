@@ -33,10 +33,10 @@ Software developer with experience across multiple programming languages and tec
 
 ## Projects
 
-**[Pirate Forum](https://onion.forum)** - Forum website with pirate things.. ifykyk
+**[Pirate Forum]** - Forum website with pirate things.. ifykyk
 *JavaScript, CSS, Supabase*
 
-**[File Sharing](https://filefox.shop)** - File sharing service like GoFile  
+**[File Sharing]** - File sharing service like GoFile  
 *JavaScript, Supabase, CSS*
 
 **Messenger App** - Real-time messaging application  
