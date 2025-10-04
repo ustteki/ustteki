@@ -1,1 +1,1 @@
-ecsrev orange flower steel crewmate purple wind
+i wont reply text me on discord or telegram
