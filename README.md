@@ -1,4 +1,4 @@
-# Alexander
+# Ustteki
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Systems+Programmer;Problem+Solver;Always+Learning" alt="Typing SVG" />
@@ -59,20 +59,20 @@ I'm a software developer with experience across multiple programming languages a
 
 ## Featured Projects
 
-### [Project Name 1](https://github.com/ustteki/project1)
-Web application built with modern frontend technologies.
-- **Tech Stack:** React, JavaScript, CSS
-- **Features:** Responsive design, Interactive UI, Performance optimized
+### [Pirate Forum Template](https://onion.forum)
+A complete forum website template with pirate-themed design and full functionality.
+- **Tech Stack:** JavaScript, CSS, Supabase
+- **Features:** User authentication, Real-time discussions, Thread management, Responsive design
 
-### [Project Name 2](https://github.com/ustteki/project2)
-Systems programming project focused on performance and reliability.
-- **Tech Stack:** Rust/C++, SQL
-- **Features:** Memory safety, Concurrent processing, Database integration
+### [File Sharing Platform](https://filefox.shop)
+Custom file sharing service similar to GoFile with secure upload and download capabilities.
+- **Tech Stack:** JavaScript, Supabase, CSS
+- **Features:** Secure file uploads, Download links, File management, Storage optimization
 
-### [Project Name 3](https://github.com/ustteki/project3)
-Data processing and automation solution.
-- **Tech Stack:** Python, SQL
-- **Features:** Automated workflows, Data analysis, Database management
+### [Messenger Application]
+Real-time messaging application with modern chat features.
+- **Tech Stack:** JavaScript, Supabase, CSS
+- **Features:** Real-time messaging, User authentication, Chat rooms, Message history
 
 ## Connect
 
