@@ -36,10 +36,9 @@
 
 -  Creator and maintainer of Roblox script hubs serving **50,000+ community members**
 -  Full-stack developer specializing in both **web** and **software development**
--  Focused on **scalable applications**, **clean code**, and **modern technologies**
--  Always learning: exploring new languages and frameworks across multiple paradigms
--  Passionate about building communities and sharing knowledge
--  Multi-language proficiency from low-level systems to high-level web development
+-  I dont make clean code
+-  I love simplicty
+-  Open-Source Enjoyer
 
 ---
 
